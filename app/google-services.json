@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "688701004175",
+    "firebase_url": "https://fir-iseng.firebaseio.com",
+    "project_id": "fir-iseng",
+    "storage_bucket": "fir-iseng.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688701004175:android:9e4691c3aecc8299",
+        "android_client_info": {
+          "package_name": "com.yuhilda.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688701004175-0og8m5cve7keo4nqm45si1ifcgcthdtj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9C4F_V9VvLRgx91JLdx20BmBe0Q-FEJs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
